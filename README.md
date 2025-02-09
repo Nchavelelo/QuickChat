@@ -1,2 +1,8 @@
-# QuickChat
-This is an iterative, build-as-you-go full-stack real-time chat application. It is developed using React.js for the frontend and Firebase for authentication and real-time messaging. The goal is to create a scalable and responsive chat system while continuously refining features and improving functionality over time.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
