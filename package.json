@@ -12,6 +12,7 @@
   "dependencies": {
     "dom": "^0.0.3",
     "firebase": "^11.3.0",
+    "quick-chat": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5",
