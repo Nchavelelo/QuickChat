@@ -1,0 +1,89 @@
+.ls
+{
+    background: #001030;
+    color: white;
+    height: 77vh;
+}
+.ls-top
+{
+    padding: 20px;
+
+}
+.ls-nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ls-nav .logo
+{
+   max-height: 400px;
+   max-width: 200px;
+
+}
+.ls-nav .menu img
+{
+    max-height: 20px;
+    opacity: 0.6;
+    cursor: pointer;
+}
+.ls-search
+{
+    background-color: #002670;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    margin-top: 20px;
+}
+.ls-search img
+{
+    width: 16px;
+}
+.ls-search input
+{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 17px;
+}
+
+.ls-search input::placeholder
+{
+    color: rgb(171, 217, 248);
+}
+.ls-list
+{
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    overflow-y: scroll;
+}
+.friends img
+{
+width:55px;
+aspect-ratio: 1/1;
+border-radius: 50%;
+}
+.friends
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 13;
+
+}
+.friends div
+{
+    display: flex;
+    flex-direction: column;
+}
+.friends span
+{
+    color: #9f9f9f;
+    font-size: 11px;
+
+}
