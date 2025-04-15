@@ -19,7 +19,7 @@ border-radius: 50%;
 }
 .chat-user img:first-child
 {
-    width: 38px;
+    width: 40px;
     aspect-ratio: 1/1;
 }
 .chat-user p {
@@ -48,6 +48,7 @@ border-radius: 50%;
     width: 30px;
     cursor: pointer;
 }
+
 .chat-input label
 {
     display: flex;
