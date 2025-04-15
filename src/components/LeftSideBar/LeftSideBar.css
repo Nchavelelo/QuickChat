@@ -85,5 +85,10 @@ border-radius: 50%;
 {
     color: #9f9f9f;
     font-size: 11px;
-
+}
+.friends:hover{
+    background-color: #077EFF;
+}
+.friends:hover span{
+    color:white;
 }
