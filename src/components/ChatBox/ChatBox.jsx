@@ -21,7 +21,7 @@ const ChatBox = () => {
     </p>
 
     <div>
-      <img src={assets.profile_img2} alt="" />
+      <img src={assets.profile_img} alt="" />
       <p>2:30 PM</p>
     </div>
 
@@ -31,11 +31,11 @@ const ChatBox = () => {
   <div className="r-msg">
     <p className="msg">
 
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+    Duis aute irure dolor in reprehenderit in voluptate 
     </p>
 
     <div>
-      <img src={assets.profile_img2} alt="" />
+      <img src={assets.profile_img} alt="" />
       <p>2:30 PM</p>
     </div>
 

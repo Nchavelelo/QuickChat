@@ -71,3 +71,45 @@ border-radius: 50%;
     display: flex;
     flex-direction: column-reverse;
 }
+.s-msg div img,.r-msg div img
+{
+    width: 27px;
+    aspect-ratio: 1/1;
+    border-radius: 50px;
+}
+.s-msg,.r-msg 
+{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    gap: 5px;
+    padding: 0px 15px;
+}
+.r-msg
+{
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+.msg
+{
+    background-color: #1726fa;
+    padding: 8px;
+    border-radius: 8px 8px 0px 8px;
+    max-width: 70%;
+    font-weight: 300;
+    color: white;
+    margin-bottom: 30px;
+}
+.r-msg .msg
+{
+    background-color: #198af3;
+    color: white;
+    border-radius: 8px 8px 8px 0px;
+    
+}
+.s-msg div,.r-msg div
+{
+    text-align: center;
+    font-size: 12px;
+    
+}
