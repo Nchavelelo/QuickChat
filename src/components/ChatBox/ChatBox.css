@@ -63,7 +63,7 @@ border-radius: 50%;
     border: none;
     outline: none;
 }
-chat-msg
+.chat-msg
 {
     height : calc(100% - 70px);
     padding-bottom: 50px;
