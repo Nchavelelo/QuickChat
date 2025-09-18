@@ -113,3 +113,10 @@ border-radius: 50%;
     font-size: 12px;
     
 }
+.msg-img
+{
+max-width: 230px;
+margin-bottom: 30px;
+border-radius: 10px;
+
+}
